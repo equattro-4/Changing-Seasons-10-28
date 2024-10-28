@@ -1,0 +1,23 @@
+#themeText {
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
+    transition: color 0.3s, background color 0.3s;
+}
+
+.september-theme {
+    color: #8B0000; 
+}
+
+.october-theme {
+    color: #FA6122; 
+}
+
+.november-theme {
+    color: #D2B48C; 
+}
+
+.december-theme {
+    color: #008000; 
+    background-color: #FF0000;
+}
